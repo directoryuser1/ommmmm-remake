@@ -1,7 +1,7 @@
 <p align="center">
 
-<img src="killgeo.png" width="100px">
+<img src="killgeo.png" width="300px">
 
 
 
-<img src="https://komarev.com/ghpvc/?username=directoryuser1&label=sundowners&color=c01b1b&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=directoryuser1&label=eaten.pixels&color=c07d8c&style=for-the-badge" />
