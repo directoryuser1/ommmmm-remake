@@ -60,5 +60,5 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
 <sub>(most of the time i prefer being cuddled, although idrm cuddling or being covered by friends)<sub/>
  &nbsp;&nbsp;&nbsp;
  
-| read straw and carrd b4 you int |
+| read straw b4 you int |
 |------------------------------|
