@@ -29,7 +29,7 @@
 <div align="center">
 
 <a href="https://x.com/ratbuchet/status/2053165742372299194?s=20">
-<img src="yesod.png" align="left" width="380px">
+<img src="yesod.png" align="left" width="370px">
 </a>
 
 ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
