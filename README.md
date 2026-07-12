@@ -31,8 +31,8 @@
 <img src="yesod.png" align="left" width="380px">
 </a>
 
-|${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">|
-|------------------------------|
+${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
+
 
 <p align="center">
   <sub>
@@ -44,7 +44,7 @@
   </sub>
 </p>
 
-&nbsp;
+<a href="https://x.com/zomerm40696/status/2075492445887033403?s=20"><img src="yesodcute.png" width="200px"></a>
 
 <div align="center">
     
