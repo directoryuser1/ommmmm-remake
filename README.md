@@ -26,6 +26,8 @@
 ---
 &nbsp;&nbsp;&nbsp;
 
+<div align="center">
+
 <a href="https://x.com/ratbuchet/status/2053165742372299194?s=20">
 <img src="yesod.png" align="left" width="380px">
 </a>
