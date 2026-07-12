@@ -15,7 +15,7 @@
 
 <sub>***i may look kinda embarassed when interacting w new people, i'm sorry if i ever make you feel uncomfortable***</sub>
 
-| <sup>${{\color{#76415d}feel \space\space free \space\space to \space\space c+h \space\space anytime \space\space without \space\space needing \space\space to \space\space ask \space\space 4 \space\space it \space\space .♡}}$</sup> |
+|<sup>${{\color{#76415d}feel \space\space free \space\space to \space\space c+h \space\space anytime \space\space without \space\space needing \space\space to \space\space ask \space\space 4 \space\space it \space\space .♡}}$</sup>|
 |------------------------------|
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31tzgm2pkldfyrowlobxphrpcda4&redirect=true">
@@ -23,7 +23,6 @@
 </a>
 
 &nbsp;&nbsp;&nbsp;
-
 ---
 &nbsp;&nbsp;&nbsp;
 
@@ -46,7 +45,20 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
 
 <a href="https://x.com/zomerm40696/status/2075492445887033403?s=20"><img src="yesodcute.png" width="200px"></a>
 
-<div align="center">
+<p align="center">
     
  <a href="https://idioteque.atabook.org/"><img src="ata.gif" width="70px"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://echolings.straw.page/"><img src="straw.gif" width="58px"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://magma.com/artist/headshrinker/gallery"><img src="gallery.gif" width="63px"></a> 
 
+</p>
+
+‎ 
+
+&nbsp;&nbsp;&nbsp;
+
+****i don't oftenly approach first, interact with people first or cuddle other****
+
+<sub>(most of the time i prefer being cuddled, although idrm cuddling or being covered by friends)<sub/>
+ &nbsp;&nbsp;&nbsp;
+ 
+| read straw and carrd b4 you int |
+|------------------------------|
