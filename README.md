@@ -11,7 +11,7 @@
 <img src="https://komarev.com/ghpvc/?username=directoryuser1&label=eaten.pixels&color=c07d8c&style=for-the-badge" />
 
 
-<sub>${{\color{#e18787}{\textsf{ (´｡• ◡ •｡`) }}}}$</sub>
+<sub>${{\color{#e18787}{\textsf{ (´｡• ◡ •｡`) }}}}$ <img src="message.gif" width="15px"></sub>
 
 <sub>***i may look kinda embarassed when interacting w new people, i'm sorry if i ever make you feel uncomfortable***</sub>
 
@@ -27,11 +27,11 @@
 ---
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://x.com/zomerm40696/status/2075492445887033403?s=20">
+<a href="https://x.com/ratbuchet/status/2053165742372299194?s=20">
 <img src="yesod.png" align="left" width="380px">
 </a>
 
-${{\color{#f6bba1}{\textsf{ ძearies }}}}$ <img src="IMG_3436.gif" width="15px">
+${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
 
 <p align="center">
   <sub>
