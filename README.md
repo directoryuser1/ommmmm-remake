@@ -38,8 +38,8 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
 <p align="center">
   <sub>
     <&nbsp;&nbsp;&nbsp; .  &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/6eaven">fyodor</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/LCB67">hong lu</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/6eaven">fyodor</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/CONSTELLATED-NIGHT">eggchan</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/TastyReality">bobette</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;3
   </sub>
