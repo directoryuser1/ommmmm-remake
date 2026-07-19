@@ -39,7 +39,7 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
   <sub>
     <&nbsp;&nbsp;&nbsp; .  &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/LCB67">hong lu</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/6eaven">fyodor</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/9lue">fyodor</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/CONSTELLATED-NIGHT">eggchan</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/TastyReality">pajamy</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp
     <a href="https://github.com/LCB61">dongrang</a>&nbsp;&nbsp;&nbsp; ˓ &nbsp;&nbsp;&nbsp;3
