@@ -50,7 +50,7 @@ ${{\color{#f6bba1}{\textsf{ my wings }}}}$ <img src="rose.gif" width="15px">
 
 <p align="center">
     
- <a href="https://idioteque.atabook.org/"><img src="ata.gif" width="70px"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://echolings.straw.page/"><img src="straw.gif" width="58px"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://magma.com/artist/headshrinker/gallery"><img src="gallery.gif" width="63px"></a> 
+ <a href="https://idioteque.atabook.org/"><img src="ata.gif" width="70px"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://echolings.straw.page/"><img src="straw.gif" width="58px"></a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://magma.com/artist/lcb61/gallery"><img src="gallery.gif" width="63px"></a> 
 
 </p>
 
